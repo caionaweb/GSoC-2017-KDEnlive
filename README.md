@@ -60,7 +60,7 @@ Week    | To do
 ----------
 
 
-Aboute me
+About me
 -------------------
 
 I am Caio Barros, student of Information Systems at the best computer college in central Brazil. Program for private companies for two years. I still work with server and datacenter infrastructure, but my biggest concern is with the well being of the community, especially for the disabled; I do everything in my power to improve their situation.
